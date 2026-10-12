@@ -1,0 +1,1 @@
+This project package is provided for development and evaluation. No warranty is provided. Review dependencies and choose an appropriate license before public distribution or commercial deployment.
